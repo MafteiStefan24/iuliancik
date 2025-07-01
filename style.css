@@ -113,6 +113,15 @@ body {
             box-shadow: 0 4px 16px rgba(44, 62, 80, 0.10);
             margin-top: 1rem;
         }
+.poza2{
+            width: 400px;
+            max-width: 800px;
+            height: auto;
+            border-radius: 12px;
+            box-shadow: 0 4px 16px rgba(44, 62, 80, 0.10);
+            margin-top: 1rem;
+        }
+
 
         /* Responsive styles for mobile devices */
 @media (max-width: 600px) {
